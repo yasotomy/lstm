@@ -1,1 +1,8 @@
-pip install pandas numpy tensorflow scikit-learn matplotlib optuna joblib streamlit
+pandas
+numpy
+tensorflow
+scikit-learn
+matplotlib
+optuna
+joblib
+streamlit
